@@ -96,5 +96,5 @@ new Vue({
 6：代码写好之后，来查看一下效果，嗯，底部导航栏完成
 ![](https://upload-images.jianshu.io/upload_images/5640239-e93e2a1319fd7fbb.gif?imageMogr2/auto-orient/strip)
 
-github链接：
+
 
